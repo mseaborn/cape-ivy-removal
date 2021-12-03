@@ -1,5 +1,10 @@
 # Tools for removing cape ivy
 
+This is a list of tools that I have found useful for weeding cape ivy
+([Delairea odorata](https://en.wikipedia.org/wiki/Delairea_odorata)),
+which is an [invasive plant
+species](https://en.wikipedia.org/wiki/Invasive_species).
+
 * Mini rake: [Corona GT 3070 cultivator tool](https://smile.amazon.com/gp/product/B00004TKJQ/)
 
    * The 5-tine "cultivator" tool is more useful than the 3-tine hoe,
